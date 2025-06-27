@@ -1,0 +1,13 @@
+[project]
+name = "NFSTron"
+version = "0.1.0"
+description = "Implementing a perceptron from zero to study"
+authors = [
+    {name = "Marcos Junior", email = "juninhomazzero@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+]
